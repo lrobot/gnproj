@@ -1,0 +1,38 @@
+# Copyright 2016 Google Inc.
+#
+# Use of this source code is governed by a BSD-style license that can be
+# found in the LICENSE file.
+
+#import("gn/shared_sources.gni")
+declare_args() {
+}
+executable("helloworld") {
+  sources = [ 
+    "hello_world.cc",
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

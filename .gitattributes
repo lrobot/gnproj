@@ -1,0 +1,24 @@
+*.bat text eol=crlf
+bin/try.bat text eol=crlf
+
+.clang-format text eol=lf
+.gitattributes text eol=lf
+.gitconfig text eol=lf
+.gitignore text eol=lf
+*.sh text eol=lf
+*.py text eol=crlf
+*.gn text eol=crlf
+*.gni text eol=crlf
+bin/compare text eol=lf
+bin/coverage text eol=lf
+bin/droid text eol=lf
+bin/fetch-clang-format text eol=lf
+bin/fetch-gn text eol=lf
+bin/fetch-skps text eol=lf
+bin/git-sync-deps text eol=lf
+bin/list-skia-bots text eol=lf
+bin/sync text eol=lf
+bin/try text eol=lf
+bin/try.py text eol=lf
+
+

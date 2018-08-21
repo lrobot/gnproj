@@ -1,0 +1,17 @@
+
+
+this is a simple gn build system, learn from skia 
+
+more detail and doc can ref: https://skia.org/user/build 
+
+thanks skia proj
+
+
+simple usage:
+  ./bin/buildios.sh
+  ./bin/buildmac.sh
+  ./bin/buildandroid.sh
+  ./bin/buildlinux.sh
+  bin\buildwin.bat
+
+
