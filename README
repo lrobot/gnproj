@@ -6,6 +6,9 @@ more detail and doc can ref: https://skia.org/user/build
 
 thanks skia proj
 
+after git clone this repo
+
+run  ./bin/git-sync-deps  to get some depends sub git repo
 
 simple usage:
   ./bin/buildios.sh
